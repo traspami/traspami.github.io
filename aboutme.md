@@ -5,14 +5,9 @@ subtitle: Biomedical Engineer · Health Data Science
 ---
 
 <div class="row align-items-center mb-5">
-  <div class="col-md-3 text-center mb-4 mb-md-0">
-    <img src="/images/foto_orla.jpg" alt="Joana Ros Alonso"
-         class="img-fluid rounded-circle shadow"
-         style="max-width:180px; border: 4px solid #0085A1;">
-  </div>
-  <div class="col-md-9">
+  <div class="col-12">
     <h2 style="margin-top:0;">Joana Ros Alonso</h2>
-    <p class="text-muted mb-2"><i class="fas fa-map-marker-alt"></i> Barcelona, Spain</p>
+    <p class="text-muted mb-2"><i class="fas fa-map-marker-alt"></i> Barcelona</p>
     <p class="lead">
       Biomedical Engineering graduate and Health Data Science Master's student specialising in AI for healthcare, biomedical signal and data analysis, biosensing, and medical device engineering. Experienced in clinical AI research, software development, and interdisciplinary scientific work.
     </p>
@@ -139,7 +134,7 @@ subtitle: Biomedical Engineer · Health Data Science
 
 ---
 
-## Achievements & Awards
+## Achievements and Awards
 
 <div class="row">
 
@@ -177,14 +172,14 @@ subtitle: Biomedical Engineer · Health Data Science
 
 ---
 
-## Courses & Training
+## Courses and Training
 
 <div class="row">
 
 <div class="col-md-6 mb-3">
   <div class="card h-100">
     <div class="card-body">
-      <h6 class="card-title">Youth &amp; Science – 3-year Scholarship</h6>
+      <h6 class="card-title">Youth and Science – 3-year Scholarship</h6>
       <p class="text-muted mb-1" style="font-size:0.85rem;">Fundació La Pedrera</p>
       <ul class="mb-0" style="font-size:0.9rem;">
         <li>Artificial Photosynthesis <em>(Imperial College London)</em></li>
