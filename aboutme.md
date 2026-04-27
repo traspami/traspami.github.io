@@ -206,12 +206,3 @@ subtitle: Biomedical Engineer · Health Data Science
 
 </div>
 
----
-
-## Languages
-
-<div class="d-flex flex-wrap gap-2 mb-2">
-  <span><strong>Catalan</strong> – Native</span> &nbsp;·&nbsp;
-  <span><strong>Spanish</strong> – Native</span> &nbsp;·&nbsp;
-  <span><strong>English</strong> – Fluent</span>
-</div>
