@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: My website
-author: Joana Ros
+title: Joana Ros Alonso
+author: Joana Ros Alonso
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -18,7 +18,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/images/ferran.jpeg"
+avatar: "/images/foto_orla.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -38,7 +38,7 @@ round-avatar: true
 social-network-links:
   email: "joana.ros.alonso@gmail.com"
   github: traspami
-  linkedin: joanarosalonso
+  linkedin: joana-ros-alonso-414a5629b
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
