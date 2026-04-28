@@ -5,19 +5,12 @@ subtitle: Biomedical Engineer · Health Data Science
 ---
 
 <style>
-.avatar-img {
-  width: 65px !important;
-  height: 65px !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  object-position: center top !important;
-}
-footer .footer-links a, footer a { color: #C8DFF5 !important; }
-footer .footer-links a:hover, footer a:hover { color: #FFFFFF !important; }
-footer .fa-stack .fa-circle, footer .fa-stack-2x { color: #C8DFF5 !important; }
-footer .fa-stack .fa-inverse { color: #1B3A6B !important; }
-footer .footer-links a:hover .fa-circle, footer .footer-links a:hover .fa-stack-2x { color: #FFFFFF !important; }
-footer .footer-links a:hover .fa-inverse { color: #1B3A6B !important; }
+img.avatar-img, .avatar-img { width:65px!important; height:65px!important; border-radius:50%!important; object-fit:cover!important; }
+footer a, footer .footer-links a { color:#C8DFF5!important; }
+footer a:hover, footer .footer-links a:hover { color:#FFFFFF!important; }
+footer .fa-stack-2x { color:#C8DFF5!important; }
+footer .fa-stack-1x.fa-inverse { color:#1B3A6B!important; }
+</style>
 </style>
 
 <div class="row align-items-center mb-5">
