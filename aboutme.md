@@ -5,8 +5,6 @@ subtitle: Biomedical Engineer · Health Data Science
 ---
 
 <div><style>
-img.avatar-img,.avatar-img{width:65px!important;height:65px!important;border-radius:50%!important;object-fit:cover!important;border:none!important}
-.avatar-container{border-radius:50%!important;overflow:hidden!important;background:transparent!important}
 footer a,footer .footer-links a{color:#C8DFF5!important}
 footer a:hover,footer .footer-links a:hover{color:#FFFFFF!important}
 footer .fa-stack-2x{color:#C8DFF5!important}
