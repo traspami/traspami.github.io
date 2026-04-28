@@ -4,6 +4,22 @@ title: About Me
 subtitle: Biomedical Engineer · Health Data Science
 ---
 
+<style>
+.avatar-img {
+  width: 65px !important;
+  height: 65px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+}
+footer .footer-links a, footer a { color: #C8DFF5 !important; }
+footer .footer-links a:hover, footer a:hover { color: #FFFFFF !important; }
+footer .fa-stack .fa-circle, footer .fa-stack-2x { color: #C8DFF5 !important; }
+footer .fa-stack .fa-inverse { color: #1B3A6B !important; }
+footer .footer-links a:hover .fa-circle, footer .footer-links a:hover .fa-stack-2x { color: #FFFFFF !important; }
+footer .footer-links a:hover .fa-inverse { color: #1B3A6B !important; }
+</style>
+
 <div class="row align-items-center mb-5">
   <div class="col-12">
     <h2 style="margin-top:0;">Joana Ros Alonso</h2>
