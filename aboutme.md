@@ -4,31 +4,25 @@ title: About Me
 subtitle: Biomedical Engineer · Health Data Science
 ---
 
-<style>
-img.avatar-img, .avatar-img { width:65px!important; height:65px!important; border-radius:50%!important; object-fit:cover!important; }
-footer a, footer .footer-links a { color:#C8DFF5!important; }
-footer a:hover, footer .footer-links a:hover { color:#FFFFFF!important; }
-footer .fa-stack-2x { color:#C8DFF5!important; }
-footer .fa-stack-1x.fa-inverse { color:#1B3A6B!important; }
-</style>
-</style>
+<div><style>
+img.avatar-img,.avatar-img{width:65px!important;height:65px!important;border-radius:50%!important;object-fit:cover!important;border:none!important}
+.avatar-container{border-radius:50%!important;overflow:hidden!important;background:transparent!important}
+footer a,footer .footer-links a{color:#C8DFF5!important}
+footer a:hover,footer .footer-links a:hover{color:#FFFFFF!important}
+footer .fa-stack-2x{color:#C8DFF5!important}
+footer .fa-stack-1x.fa-inverse{color:#1B3A6B!important}
+h2{font-weight:400!important;letter-spacing:0.04em}
+</style></div>
 
-<div class="row align-items-center mb-5">
-  <div class="col-12">
-    <h2 style="margin-top:0;">Joana Ros Alonso</h2>
-    <p class="text-muted mb-2"><i class="fas fa-map-marker-alt"></i> Barcelona</p>
-    <p class="lead">
-      Biomedical Engineering graduate and Health Data Science Master's student, passionate about AI for healthcare, biomedical signal analysis, and medical device engineering. Experienced in clinical AI research and interdisciplinary scientific work.
-    </p>
-    <p class="mb-1">
-      <span class="badge" style="background:#1B3A6B; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">AI for Healthcare</span>
-      <span class="badge" style="background:#1B3A6B; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">Biomedical Signal Processing</span>
-      <span class="badge" style="background:#5B9BD5; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">Generative AI / LLMs</span>
-      <span class="badge" style="background:#5B9BD5; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">Biosensing</span>
-      <span class="badge" style="background:#1B3A6B; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">Medical Device Engineering</span>
-    </p>
-  </div>
-</div>
+<p class="lead mb-3">Biomedical Engineering graduate and Health Data Science Master's student, passionate about AI for healthcare, biomedical signal analysis, and medical device engineering. Experienced in clinical AI research and interdisciplinary scientific work.</p>
+
+<p class="mb-4">
+  <span class="badge" style="background:#1B3A6B; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">AI for Healthcare</span>
+  <span class="badge" style="background:#1B3A6B; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">Biomedical Signal Processing</span>
+  <span class="badge" style="background:#5B9BD5; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">Generative AI / LLMs</span>
+  <span class="badge" style="background:#5B9BD5; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">Biosensing</span>
+  <span class="badge" style="background:#1B3A6B; color:white; margin-right:4px; padding:6px 12px; border-radius:20px;">Medical Device Engineering</span>
+</p>
 
 ---
 
@@ -50,7 +44,6 @@ footer .fa-stack-1x.fa-inverse { color:#1B3A6B!important; }
     <span class="text-muted">Sep 2021 – Jun 2025</span>
   </div>
   <div class="text-muted">Universitat de Barcelona</div>
-  <div><small><em>Honours in Robotics and Medical Informatics</em></small></div>
 </div>
 
 </div>
@@ -109,7 +102,21 @@ footer .fa-stack-1x.fa-inverse { color:#1B3A6B!important; }
 
 ---
 
-## Projects
+## Projects and Achievements
+
+<div class="card mb-3" style="border-left: 4px solid #1B3A6B; background: linear-gradient(135deg, #F4F8FD 0%, #EBF3FA 100%); box-shadow: 0 2px 8px rgba(27,58,107,0.08);">
+  <div class="card-body">
+    <h5 class="card-title mb-1">Finalist – HealthTech2030 Innovation Challenge <span class="text-muted" style="font-size:0.85rem; font-weight:normal;">(2025)</span></h5>
+    <p class="mb-0" style="font-size:0.9rem;">AURA: early epilepsy-seizure detection system.</p>
+  </div>
+</div>
+
+<div class="card mb-3" style="border-left: 4px solid #1B3A6B; background: linear-gradient(135deg, #F4F8FD 0%, #EBF3FA 100%); box-shadow: 0 2px 8px rgba(27,58,107,0.08);">
+  <div class="card-body">
+    <h5 class="card-title mb-1">GenAI Health Hack – Best Challenge <span class="text-muted" style="font-size:0.85rem; font-weight:normal;">(2024)</span></h5>
+    <p class="mb-0" style="font-size:0.9rem;">AI-powered clinical case simulator using LLMs and AWS.</p>
+  </div>
+</div>
 
 <div class="card mb-3" style="border-left: 4px solid #1B3A6B; background: linear-gradient(135deg, #F4F8FD 0%, #EBF3FA 100%); box-shadow: 0 2px 8px rgba(27,58,107,0.08);">
   <div class="card-body">
@@ -118,15 +125,53 @@ footer .fa-stack-1x.fa-inverse { color:#1B3A6B!important; }
   </div>
 </div>
 
----
-
-## Courses & Training
-
-<div style="border-left: 3px solid #5B9BD5; padding-left: 20px; margin-bottom: 16px;">
-  <p class="mb-1"><strong>Youth and Science – 3-year Scholarship</strong> &nbsp;<span class="text-muted" style="font-size:0.85rem;">Fundació La Pedrera</span></p>
-  <p class="mb-0" style="font-size:0.9rem; color:#555;">Artificial Photosynthesis <em>(Imperial College London)</em> · Air Pollution Analysis <em>(IDAEA-CSIC)</em> · 3D Reconstruction of Lemur Locomotion <em>(Centre ValBio, Madagascar)</em></p>
+<div class="card mb-3" style="border-left: 4px solid #5B9BD5; background: linear-gradient(135deg, #F4F8FD 0%, #EBF3FA 100%); box-shadow: 0 2px 8px rgba(27,58,107,0.08);">
+  <div class="card-body">
+    <h5 class="card-title mb-1">Woman FIDE Master (WFM)</h5>
+    <p class="mb-0" style="font-size:0.9rem;">International chess title.</p>
+  </div>
 </div>
 
-<div style="border-left: 3px solid #c8dff5; padding-left: 20px;">
-  <p class="mb-1" style="font-size:0.9rem; color:#555;">Bioengineering – Crazies for Science <em>(IBEC)</em> · Ankle Arthroplasty: State of the Art <em>(UB)</em> · Algorithmics and Programming <em>(UPC)</em> · Stage Explainers "Comunica Ciència" <em>(CosmoCaixa)</em></p>
+---
+
+## Courses and Training
+
+<div style="border-left: 3px solid #5B9BD5; padding-left: 20px; margin-bottom: 30px;">
+
+<div class="mb-4">
+  <div class="d-flex justify-content-between flex-wrap">
+    <strong>Youth and Science – 3-year Scholarship</strong>
+    <span class="text-muted" style="font-size:0.85rem;">Fundació La Pedrera</span>
+  </div>
+  <small style="color:#555;">Artificial Photosynthesis (Imperial College London) · Trend Analysis of Air Pollution in Barcelona (IDAEA-CSIC) · 3D Reconstruction of Lemur Locomotion (Centre ValBio, Madagascar)</small>
+</div>
+
+<div class="mb-4">
+  <div class="d-flex justify-content-between flex-wrap">
+    <strong>Bioengineering – Crazies for Science</strong>
+    <span class="text-muted" style="font-size:0.85rem;">IBEC</span>
+  </div>
+</div>
+
+<div class="mb-4">
+  <div class="d-flex justify-content-between flex-wrap">
+    <strong>Ankle Arthroplasty: State of the Art</strong>
+    <span class="text-muted" style="font-size:0.85rem;">Universitat de Barcelona</span>
+  </div>
+</div>
+
+<div class="mb-4">
+  <div class="d-flex justify-content-between flex-wrap">
+    <strong>Algorithmics and Programming</strong>
+    <span class="text-muted" style="font-size:0.85rem;">UPC</span>
+  </div>
+</div>
+
+<div class="mb-2">
+  <div class="d-flex justify-content-between flex-wrap">
+    <strong>Stage Explainers "Comunica Ciència"</strong>
+    <span class="text-muted" style="font-size:0.85rem;">CosmoCaixa</span>
+  </div>
+</div>
+
 </div>
